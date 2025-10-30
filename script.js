@@ -1,7 +1,7 @@
 const cards = [
-    { name: "daikichi", imageUrl: "img/daikichi.png" },
-    { name: "chukichi", imageUrl: "img/chukichi.png" },
-    { name: "chukichi", imageUrl: "img/chukichi.png" },
+    { name: "daidaikichi", imageUrl: "img/daidaikiti_omikuji.jpeg" },
+    { name: "tyukichi", imageUrl: "img/tyukiti_omikuji.jpeg" },
+    { name: "kichi", imageUrl: "img/kiti_omikuji.jpeg" },
     { name: "chukichi", imageUrl: "img/chukichi.png" },
     { name: "chukichi", imageUrl: "img/chukichi.png" },
     { name: "shokichi", imageUrl: "img/shokichi.png" },
