@@ -6,7 +6,7 @@ const cards = [
     { name: "suekiti", imageUrl: "img/suekiti_omikuji.jpeg" },
     { name: "daikiti", imageUrl: "img/daikiti_omikuji.jpeg" },
     { name: "kyou", imageUrl: "img/kyou_omikuji.jpeg" },
-     { name: "secret", imageUrl: "img/secret.jpeg" },
+    { name: "secret", imageUrl: "img/secret.jpeg" },
     // その他のカードを追加
 ];
 
